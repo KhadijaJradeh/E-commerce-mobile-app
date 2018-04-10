@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Bottom bar menu by roughike-->
+<!--https://github.com/roughike/BottomBar-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Every item for another tab-->
+    <item
+        android:id="@+id/bottomBarItemOne"
+        android:icon="@drawable/f30"
+        android:title="First" />
+    <item
+        android:id="@+id/bottomBarItemSecond"
+        android:icon="@drawable/f28"
+        android:title="Second" />
+    <item
+        android:id="@+id/bottomBarItemThird"
+        android:icon="@drawable/f32"
+        android:title="Third"
+        />
+    <item
+        android:id="@+id/bottomBarItemFourth"
+        android:icon="@drawable/f29"
+        android:title="Fourth"
+        />
+</menu>
